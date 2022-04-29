@@ -38,6 +38,7 @@ code {
   color: black;
   border-radius: 4px;
   font-weight: bold;
+  cursor: pointer;
 }
 
 .btn:active {
@@ -68,6 +69,7 @@ ul li {
   padding: 3px 8px;
   border-radius: 4px;
   text-transform: lowercase;
+  cursor: pointer;
 }
 
 .clear {
@@ -75,4 +77,8 @@ ul li {
   color: mediumseagreen;
   border: 1px solid mediumseagreen;
   float: right;
+}
+
+.cross {
+  text-decoration: line-through;
 }
