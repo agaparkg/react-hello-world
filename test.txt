@@ -1,3 +1,1 @@
 Add new test.txt file
-new line from newb2
-another new line from newb2
